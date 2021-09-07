@@ -11,7 +11,7 @@
 ### Additional features:
 - displaying offers in PLN and EUR ( with 6% and 7% margin).
 - remembering login in for the next sessions.
-- displaying actual PLN/EUR currency exchange rate
-- displaying all currency exchange rates for all currencies
-- sending all versions of offers to people in charge
-- displaying all versions of offers to people in charge
+- displaying actual PLN/EUR currency exchange rate.
+- displaying all currency exchange rates for all currencies.
+- sending all versions of offers to people in charge.
+- displaying all versions of offers to people in charge.
